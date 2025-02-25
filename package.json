@@ -2,6 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://prernajoshipj.github.io/my-portfolio",
   "dependencies": {
     "@fontsource/orbitron": "^5.1.1",
     "core-js": "^3.40.0",
@@ -38,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
+  
 }
