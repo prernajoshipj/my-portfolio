@@ -71,7 +71,7 @@ const skills = [
 
 export default function Skills() {
   return (
-    <section id="skills" className="relative flex flex-col justify-center items-center text-center px-8 py-16 min-h-screen">
+    <section id="skills" className="relative h-auto flex flex-col justify-center items-center text-center px-8 py-16 min-h-screen">
       
       {/* Background Effect */}
       <div className="absolute inset-0 w-full h-full bg-gradient-to-b from-black via-gray-900 to-black opacity-50 z-0"></div>

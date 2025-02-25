@@ -64,7 +64,7 @@ export default function Projects() {
   };
 
   return (
-    <section id="projects" className="relative py-12 px-6 text-white z-10">
+    <section id="projects" className="relative h-auto py-12 px-6 text-white z-10">
     {/* Adjusted Transparent Overlay */}
     <div className="absolute inset-0 pointer-events-none"></div>
 

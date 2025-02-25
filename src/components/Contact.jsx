@@ -3,7 +3,7 @@ import { FaLinkedin, FaInstagram, FaGithub, FaEnvelope, FaMapMarkerAlt } from "r
 
 export default function Contact() {
   return (
-    <section id="contact" className="mt-12 text-center  py-16 shadow-2xl animate-fade-in rounded-xl mx-6">
+    <section id="contact" className="mt-12 text-center h-auto  py-16 shadow-2xl animate-fade-in rounded-xl mx-6">
       <h2 className="text-5xl font-extrabold border-b-4 border-purple-500 pb-4 mb-12 text-white uppercase tracking-wide animate-bounce">
         Let's Connect
       </h2>

@@ -60,7 +60,7 @@ export default function WorkExperience() {
         id="work-experience"
         className="mt-12 text-center py-10 shadow-lg rounded-3xl"
       >
-        <h2 className="text-5xl font-extrabold border-b-4 border-purple-500 pb-4 mb-12 text-white uppercase tracking-wide">
+        <h2 className="text-5xl h-auto font-extrabold border-b-4 border-purple-500 pb-4 mb-12 text-white uppercase tracking-wide">
           Work Experience
         </h2>
         <div className="max-w-6xl  mx-auto px-6">

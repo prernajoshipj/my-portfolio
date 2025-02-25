@@ -37,7 +37,7 @@ export default function CertificationsAwards() {
   };
 
   return (
-    <section id="certifications-awards" className="mt-12 text-center py-10 shadow-lg animate-fade-in">
+    <section id="certifications-awards" className="mt-12 h-auto text-center py-10 shadow-lg animate-fade-in">
       {/* Section Title */}
       <h2 className="text-5xl font-extrabold border-b-4 border-purple-500 pb-4 mb-12 text-white text-center uppercase tracking-wide">
         ACHIEVEMENTS

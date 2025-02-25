@@ -22,7 +22,7 @@ export default function Education() {
   ];
 
   return (
-    <section id="education" className="mt-12 text-center py-10 shadow-lg bg-glassmorphism">
+    <section id="education" className="mt-12 h-auto text-center py-10 shadow-lg bg-glassmorphism">
       <h2 className="text-5xl font-extrabold border-b-4 border-purple-500 pb-4 mb-12 text-white uppercase tracking-wide">
         Education
       </h2>
