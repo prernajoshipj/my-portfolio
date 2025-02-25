@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.7a00cfa6.css",
+    "main.js": "/my-portfolio/static/js/main.1595befe.js",
+    "static/media/world.svg": "/my-portfolio/static/media/world.883b7cc03c47e2bc8ede.svg",
+    "static/media/ocigenai.png": "/my-portfolio/static/media/ocigenai.9ef4b765bf03bfa96028.png",
+    "static/media/inae.png": "/my-portfolio/static/media/inae.27c7c91c4cd01d0d8bbf.png",
+    "static/media/googleda.png": "/my-portfolio/static/media/googleda.0e9959c796587f98790b.png",
+    "static/media/query.png": "/my-portfolio/static/media/query.f9d035a778e9e6beb9f3.png",
+    "static/media/pdfAI.png": "/my-portfolio/static/media/pdfAI.65a49658b069c463bc18.png",
+    "static/media/computervision.jpg": "/my-portfolio/static/media/computervision.870f41ed41ae8f29c75b.jpg",
+    "static/media/prerna-photo.jpg": "/my-portfolio/static/media/prerna-photo.5f21ce0246d49e5e1e58.jpg",
+    "static/media/abtesting.jpg": "/my-portfolio/static/media/abtesting.f9bc69fde62c89bedec8.jpg",
+    "static/media/customerchurn.png": "/my-portfolio/static/media/customerchurn.7d084d11405ba07af4bc.png",
+    "static/media/etl.jpg": "/my-portfolio/static/media/etl.ce83f058d0468ef7a639.jpg",
+    "static/media/ttten.svg": "/my-portfolio/static/media/ttten.aee53bdae209dfa08384.svg",
+    "static/media/ssscribble.svg": "/my-portfolio/static/media/ssscribble.7bddd76e67760df43f69.svg",
+    "static/media/grid-pattern.svg": "/my-portfolio/static/media/grid-pattern.a023b22b3051c9a85c18.svg",
+    "static/media/line.svg": "/my-portfolio/static/media/line.8d9d92b850c0b5a558c4.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.7a00cfa6.css.map": "/my-portfolio/static/css/main.7a00cfa6.css.map",
+    "main.1595befe.js.map": "/my-portfolio/static/js/main.1595befe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a00cfa6.css",
+    "static/js/main.1595befe.js"
+  ]
+}
