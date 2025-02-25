@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+.bg-grid-pattern {
+    background: url("/public/grid-pattern.svg") repeat;
+  }
+.bg-ttten {
+    background: url("/public/ttten.svg") repeat;
+  }
+
+.bg-line {
+    background: url("/public/line.svg") repeat;
+  }
+.bg-ssscribble {
+    background: url("/public/ssscribble.svg") repeat;
+
+  }
+.bg-world {
+    background: url("/public/world.svg") repeat;
+}
+  
