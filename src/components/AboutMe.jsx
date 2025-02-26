@@ -15,7 +15,7 @@ export default function AboutMe() {
       <p className="text-3xl font-extrabold mb-6 bg-gradient-to-r from-pink-500 via-yellow-400 to-blue-500 bg-clip-text text-transparent leading-snug animate-pulse">
             Hi, I’m Prerna Joshi, a visionary problem solver passionate about transforming business challenges into tech-driven innovations.
       </p>
-      <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between relative z-10">
+      <div className="max-w-6xl mx-auto h-auto flex flex-col md:flex-row items-center justify-between relative z-10">
 
         {/* Profile Image */}
         <div className="relative w-80 h-80 flex justify-center items-center group mt-[-30px]">
@@ -26,7 +26,7 @@ export default function AboutMe() {
             <img 
               src={prernaPhoto}
               alt="Prerna Joshi" 
-              className="w-full h-full object-cover rounded-xl opacity-90"
+              className="w-auto h-auto object-cover rounded-xl opacity-90"
             />
           </div>
         </div>

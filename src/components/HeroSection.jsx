@@ -45,7 +45,7 @@ export default function HeroSection() {
   };
 
   const handleResumeDownload = () => {
-    window.open('https://drive.google.com/file/d/1luuiO9Oqso0GoSF5wDIZ-6MGdLPJ-Zc8/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1RG5paZsiw5UFDrKSvAo45a_-aTRX5ygX/view?usp=sharing', '_blank');
   };
 
   const handleProjectClick = () => {
