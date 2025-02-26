@@ -120,7 +120,7 @@ export default function Skills() {
       </h2>     
 
       {/* Skills Grid with Flip Cards */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 w-full max-w-6xl mx-auto relative z-10">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 w-full mini-h-screen max-w-6xl mx-auto relative z-10">
         {skills.map((skill, index) => (
           <div key={index} className="flip-card">
             <div className="flip-card-inner">
@@ -133,7 +133,7 @@ export default function Skills() {
               </div>
 
               {/* Back Side */}
-              <div className={`flip-card-back ${skill.backColor} ${skill.textColor} shadow-lg rounded-xl flex flex-col justify-center items-center`}>
+              <div className={`flip-card-back ${skill.backColor} ${skill.textColor} shadow-lg rounded-xl flex flex-col justify-center items-center h-auto`}>
                 <h3 className="text-lg font-bold">{skill.category}</h3>
                 <p className="text-md font-semibold mt-2 text-center">{skill.description}</p>
                 <ul className="grid grid-cols-2 gap-2 mt-4 text-center">
