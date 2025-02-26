@@ -32,7 +32,7 @@ export default function AboutMe() {
         </div>
 
         {/* About Me Content */}
-        <div className="w-full md:w-2/3 text-left mt-8 md:mt-0 px-10">
+        <div className="w-full md:w-2/3 text-left justify-center mt-8 md:mt-0 px-10">
 
 
           <p className="text-lg text-gray-100 mb-4 leading-relaxed">

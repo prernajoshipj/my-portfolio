@@ -20,7 +20,7 @@ const skills = [
     backColor: "bg-gradient-to-br from-blue-200 to-blue-400",
     textColor: "text-blue-900",
     items: [
-      "TensorFlow", "PyTorch", "Scikit-Learn", "Deep Learning", "NLP", "Predictive Analytics", 
+      "TensorFlow", "PyTorch", "Scikit-Learn", "Deep Learning", 
       "Explainable AI (SHAP, LIME)", "Multilayer Neural Networks (MLP)"
     ],
     description: "Hands-on experience in deep learning, NLP, predictive modeling, and explainable AI."
@@ -74,7 +74,7 @@ const skills = [
     backColor: "bg-gradient-to-br from-indigo-200 to-indigo-400",
     textColor: "text-indigo-900",
     items: [
-      "EDA", "Feature Engineering", "Hypothesis Testing", "A/B Testing",
+      "Feature Engineering", "A/B Testing",
       "Matplotlib", "Seaborn", "Streamlit", "Power BI", "Tableau"
     ],
     description: "Skilled in exploratory data analysis, hypothesis testing, and data visualization."
