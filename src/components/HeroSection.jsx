@@ -10,7 +10,7 @@ export default function HeroSection() {
     "Machine Learning Engineer",
     "AI/Deep Learning Specialist",
     "Data Engineer",
-    "Business Intelligence (BI) Analyst",
+    "Data Analyst",
   ];
   const [roleIndex, setRoleIndex] = useState(0);
   const [text, setText] = useState("");
@@ -45,7 +45,7 @@ export default function HeroSection() {
   };
 
   const handleResumeDownload = () => {
-    window.open('https://drive.google.com/file/d/1RG5paZsiw5UFDrKSvAo45a_-aTRX5ygX/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1z7WwfZ7XjSkZLm9-M0hro6Jppxozlbpb/view?usp=sharing', '_blank');
   };
 
   const handleProjectClick = () => {
@@ -89,7 +89,7 @@ export default function HeroSection() {
         <a href="https://github.com/prernajoshipj" target="_blank" rel="noopener noreferrer" className="text-gray-400 text-3xl hover:text-gray-600 transition-all duration-300">
           <FaGithub />
         </a>
-        <a href="mailto:prernajoshi100596@gmail.com" className="text-green-400 text-3xl hover:text-green-600 transition-all duration-300">
+        <a href="mailto:prernajoshi026@gmail.com" className="text-green-400 text-3xl hover:text-green-600 transition-all duration-300">
           <FaEnvelope />
         </a>
       </div>

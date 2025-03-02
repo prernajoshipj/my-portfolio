@@ -20,7 +20,7 @@ export default function Contact() {
         </p>
         <p className="flex items-center space-x-4 bg-gray-800 p-3 rounded-lg shadow-md transform hover:scale-105 transition duration-300">
           <FaEnvelope className="text-green-400 text-2xl" /> 
-          <a href="mailto:prernajoshi100596@gmail.com" className="hover:underline hover:text-purple-300 transition duration-300 text-white font-medium text-lg">
+          <a href="mailto:prernajoshi026@gmail.com" className="hover:underline hover:text-purple-300 transition duration-300 text-white font-medium text-lg">
             Send me an email
           </a>
         </p>
